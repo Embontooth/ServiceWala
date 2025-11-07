@@ -15,6 +15,7 @@ import BookingStatus from './pages/BookingStatus';
 import Settings from './pages/Settings';
 import ProviderDashboard from './pages/ProviderDashboard';
 import AddService from './pages/AddService';
+import NotFound from './pages/NotFound';
 
 function App() {
   return (
@@ -37,6 +38,9 @@ function App() {
                 <Route path="/settings" element={<Settings />} />
                 <Route path="/provider-dashboard" element={<ProviderDashboard />} />
                 <Route path="/add-service" element={<AddService />} />
+                
+                {/* 404 Route - Must be last */}
+                <Route path="*" element={<NotFound />} />
               </Routes>
             </div>
           </Router>

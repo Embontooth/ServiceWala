@@ -1,5 +1,5 @@
 describe('Service Wala Comprehensive Tests', () => {
-  const baseUrl = 'service-wala-mauve.vercel.app';
+  const baseUrl = 'http://localhost:3000/';
 
   beforeEach(() => {
     cy.visit(baseUrl); // Visit the base URL before each test

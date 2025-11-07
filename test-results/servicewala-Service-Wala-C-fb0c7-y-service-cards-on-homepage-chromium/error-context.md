@@ -1,0 +1,261 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - link "ServiceWala" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+        - generic [ref=e11]: ServiceWala
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Services" [ref=e14] [cursor=pointer]:
+          - /url: /services
+        - link "How It Works" [ref=e15] [cursor=pointer]:
+          - /url: /how-it-works
+      - generic [ref=e17]:
+        - img [ref=e18]
+        - button "Select State" [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]: Select State
+          - img [ref=e24]
+      - generic [ref=e27]:
+        - link "Login" [ref=e28] [cursor=pointer]:
+          - /url: /login
+        - link "Sign Up" [ref=e29] [cursor=pointer]:
+          - /url: /signup
+  - generic [ref=e30]:
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - heading "Find Trusted Local Services" [level=1] [ref=e35]
+        - paragraph [ref=e36]: Connect with verified professionals for all your home needs. From carpentry to plumbing, find quality service providers in your city.
+        - generic [ref=e37]:
+          - heading "Select your location:" [level=3] [ref=e38]
+          - generic [ref=e39]:
+            - img [ref=e40]
+            - button "Select State" [ref=e44] [cursor=pointer]:
+              - generic [ref=e45]: Select State
+              - img [ref=e46]
+        - generic [ref=e49]:
+          - textbox "What service do you need? (e.g., AC repair, painting)" [ref=e50]
+          - link "Search" [ref=e51] [cursor=pointer]:
+            - /url: /services
+            - img [ref=e52]
+            - text: Search
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - generic [ref=e57]: 2500+
+            - generic [ref=e58]: Service Providers
+          - generic [ref=e59]:
+            - generic [ref=e60]: 15000+
+            - generic [ref=e61]: Happy Customers
+          - generic [ref=e62]:
+            - generic [ref=e63]: 4.8★
+            - generic [ref=e64]: Average Rating
+      - generic [ref=e65]:
+        - img "Professional service" [ref=e66]
+        - generic [ref=e68]:
+          - img [ref=e69]
+          - generic [ref=e72]: Verified Professionals
+        - generic [ref=e74]:
+          - img [ref=e75]
+          - generic [ref=e77]: Top Rated Services
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - heading "Popular Service Categories" [level=2] [ref=e81]
+        - paragraph [ref=e82]: Discover the services you need from trusted professionals across India
+      - generic [ref=e83]:
+        - link "🔨 Carpentry 25 services" [ref=e84] [cursor=pointer]:
+          - /url: /services?category=Carpentry
+          - generic [ref=e85]: 🔨
+          - heading "Carpentry" [level=3] [ref=e86]
+          - paragraph [ref=e87]: 25 services
+        - link "⚡ Electrical 18 services" [ref=e88] [cursor=pointer]:
+          - /url: /services?category=Electrical
+          - generic [ref=e89]: ⚡
+          - heading "Electrical" [level=3] [ref=e90]
+          - paragraph [ref=e91]: 18 services
+        - link "🔧 Plumbing 22 services" [ref=e92] [cursor=pointer]:
+          - /url: /services?category=Plumbing
+          - generic [ref=e93]: 🔧
+          - heading "Plumbing" [level=3] [ref=e94]
+          - paragraph [ref=e95]: 22 services
+        - link "🎨 Painting 15 services" [ref=e96] [cursor=pointer]:
+          - /url: /services?category=Painting
+          - generic [ref=e97]: 🎨
+          - heading "Painting" [level=3] [ref=e98]
+          - paragraph [ref=e99]: 15 services
+        - link "🧹 Cleaning 20 services" [ref=e100] [cursor=pointer]:
+          - /url: /services?category=Cleaning
+          - generic [ref=e101]: 🧹
+          - heading "Cleaning" [level=3] [ref=e102]
+          - paragraph [ref=e103]: 20 services
+        - link "🔌 Appliance Repair 12 services" [ref=e104] [cursor=pointer]:
+          - /url: /services?category=Appliance Repair
+          - generic [ref=e105]: 🔌
+          - heading "Appliance Repair" [level=3] [ref=e106]
+          - paragraph [ref=e107]: 12 services
+        - link "🐛 Pest Control 8 services" [ref=e108] [cursor=pointer]:
+          - /url: /services?category=Pest Control
+          - generic [ref=e109]: 🐛
+          - heading "Pest Control" [level=3] [ref=e110]
+          - paragraph [ref=e111]: 8 services
+        - link "🌱 Gardening 10 services" [ref=e112] [cursor=pointer]:
+          - /url: /services?category=Gardening
+          - generic [ref=e113]: 🌱
+          - heading "Gardening" [level=3] [ref=e114]
+          - paragraph [ref=e115]: 10 services
+    - generic [ref=e117]:
+      - generic [ref=e118]:
+        - heading "How It Works" [level=2] [ref=e119]
+        - paragraph [ref=e120]: Get the help you need in three simple steps
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - img [ref=e124]
+          - heading "1. Browse Services" [level=3] [ref=e127]
+          - paragraph [ref=e128]: Search through our curated list of verified professionals in your city
+        - generic [ref=e129]:
+          - img [ref=e131]
+          - heading "2. Connect & Book" [level=3] [ref=e136]
+          - paragraph [ref=e137]: Review profiles, read reviews, and book the perfect professional for your job
+        - generic [ref=e138]:
+          - img [ref=e140]
+          - heading "3. Get It Done" [level=3] [ref=e143]
+          - paragraph [ref=e144]: Enjoy quality service with peace of mind knowing you're protected
+    - generic [ref=e146]:
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - heading "Featured Services" [level=2] [ref=e149]
+          - paragraph [ref=e150]: Top-rated services from trusted professionals
+        - link "View All Services" [ref=e151] [cursor=pointer]:
+          - /url: /services
+          - text: View All Services
+          - img [ref=e152]
+      - generic [ref=e154]:
+        - link "Modular Carpentry ₹150 Carpentry Modular Carpentry Custom woodwork and modular furniture installation WoodCraft Masters WoodCraft Masters 4.7 (87 reviews) Sadar Bazar Available 5 days/week" [ref=e155] [cursor=pointer]:
+          - /url: /service/1
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - img "Modular Carpentry" [ref=e158]
+              - generic [ref=e159]: ₹150
+            - generic [ref=e160]:
+              - generic [ref=e162]: Carpentry
+              - heading "Modular Carpentry" [level=3] [ref=e163]
+              - paragraph [ref=e164]: Custom woodwork and modular furniture installation
+              - generic [ref=e165]:
+                - img "WoodCraft Masters" [ref=e166]
+                - generic [ref=e168]:
+                  - generic [ref=e169]: WoodCraft Masters
+                  - img [ref=e170]
+              - generic [ref=e174]:
+                - img [ref=e175]
+                - generic [ref=e177]: "4.7"
+                - generic [ref=e178]: (87 reviews)
+              - generic [ref=e179]:
+                - img [ref=e180]
+                - generic [ref=e183]: Sadar Bazar
+              - generic [ref=e184]:
+                - img [ref=e185]
+                - generic [ref=e188]: Available 5 days/week
+        - link "Electrical Repairs ₹100 Electrical Electrical Repairs Safe and quick solutions for all electrical issues Ramesh Electrician Ramesh Electrician 4.6 (76 reviews) Lajpat Nagar Available 6 days/week" [ref=e189] [cursor=pointer]:
+          - /url: /service/2
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - img "Electrical Repairs" [ref=e192]
+              - generic [ref=e193]: ₹100
+            - generic [ref=e194]:
+              - generic [ref=e196]: Electrical
+              - heading "Electrical Repairs" [level=3] [ref=e197]
+              - paragraph [ref=e198]: Safe and quick solutions for all electrical issues
+              - generic [ref=e199]:
+                - img "Ramesh Electrician" [ref=e200]
+                - generic [ref=e202]:
+                  - generic [ref=e203]: Ramesh Electrician
+                  - img [ref=e204]
+              - generic [ref=e208]:
+                - img [ref=e209]
+                - generic [ref=e211]: "4.6"
+                - generic [ref=e212]: (76 reviews)
+              - generic [ref=e213]:
+                - img [ref=e214]
+                - generic [ref=e217]: Lajpat Nagar
+              - generic [ref=e218]:
+                - img [ref=e219]
+                - generic [ref=e222]: Available 6 days/week
+        - link "Wall Painting ₹200 Painting Wall Painting Interior and exterior house painting by professionals Rajesh Painter Rajesh Painter 4.8 (132 reviews) Connaught Place Available 5 days/week" [ref=e223] [cursor=pointer]:
+          - /url: /service/3
+          - generic [ref=e224]:
+            - generic [ref=e225]:
+              - img "Wall Painting" [ref=e226]
+              - generic [ref=e227]: ₹200
+            - generic [ref=e228]:
+              - generic [ref=e230]: Painting
+              - heading "Wall Painting" [level=3] [ref=e231]
+              - paragraph [ref=e232]: Interior and exterior house painting by professionals
+              - generic [ref=e233]:
+                - img "Rajesh Painter" [ref=e234]
+                - generic [ref=e236]:
+                  - generic [ref=e237]: Rajesh Painter
+                  - img [ref=e238]
+              - generic [ref=e242]:
+                - img [ref=e243]
+                - generic [ref=e245]: "4.8"
+                - generic [ref=e246]: (132 reviews)
+              - generic [ref=e247]:
+                - img [ref=e248]
+                - generic [ref=e251]: Connaught Place
+              - generic [ref=e252]:
+                - img [ref=e253]
+                - generic [ref=e256]: Available 5 days/week
+        - link "Termite & Pest Control ₹120 Pest Control Termite & Pest Control Safe and effective pest control for your home Delhi Pest Control Delhi Pest Control 4.7 (98 reviews) Rohini Available 6 days/week" [ref=e257] [cursor=pointer]:
+          - /url: /service/4
+          - generic [ref=e258]:
+            - generic [ref=e259]:
+              - img "Termite & Pest Control" [ref=e260]
+              - generic [ref=e261]: ₹120
+            - generic [ref=e262]:
+              - generic [ref=e264]: Pest Control
+              - heading "Termite & Pest Control" [level=3] [ref=e265]
+              - paragraph [ref=e266]: Safe and effective pest control for your home
+              - generic [ref=e267]:
+                - img "Delhi Pest Control" [ref=e268]
+                - generic [ref=e270]:
+                  - generic [ref=e271]: Delhi Pest Control
+                  - img [ref=e272]
+              - generic [ref=e276]:
+                - img [ref=e277]
+                - generic [ref=e279]: "4.7"
+                - generic [ref=e280]: (98 reviews)
+              - generic [ref=e281]:
+                - img [ref=e282]
+                - generic [ref=e285]: Rohini
+              - generic [ref=e286]:
+                - img [ref=e287]
+                - generic [ref=e290]: Available 6 days/week
+    - generic [ref=e292]:
+      - generic [ref=e293]:
+        - heading "Why Choose ServiceWala" [level=2] [ref=e294]
+        - paragraph [ref=e295]: The trusted platform for finding quality services across India
+      - generic [ref=e296]:
+        - generic [ref=e297]:
+          - img [ref=e298]
+          - heading "Verified Professionals" [level=3] [ref=e300]
+          - paragraph [ref=e301]: All service providers are background-checked and verified for your safety
+        - generic [ref=e302]:
+          - img [ref=e303]
+          - heading "Quality Guarantee" [level=3] [ref=e305]
+          - paragraph [ref=e306]: We ensure high-quality service with our satisfaction guarantee policy
+        - generic [ref=e307]:
+          - img [ref=e308]
+          - heading "24/7 Support" [level=3] [ref=e311]
+          - paragraph [ref=e312]: Our customer support team is available around the clock to help you
+    - generic [ref=e314]:
+      - heading "Ready to Get Started?" [level=2] [ref=e315]
+      - paragraph [ref=e316]: Join thousands of satisfied customers who found their perfect service provider
+      - generic [ref=e317]:
+        - link "Find Services" [ref=e318] [cursor=pointer]:
+          - /url: /services
+        - link "Become a Provider" [ref=e319] [cursor=pointer]:
+          - /url: /signup
+```
